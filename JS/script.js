@@ -13,8 +13,8 @@ let config = {
   const zoom = 18;
   // co-ordinates
   
-  const lat = -60.45;
-  const lng = -28.83;
+  const lat = -61.45;
+  const lng = -31.3;
   
   // calling map
   const map = L.map("map", config).setView([lat, lng], zoom);
@@ -134,7 +134,7 @@ let config = {
     
     // close sidebar when click on close button
     closeSidebar();
-    map.setView([-30.99 ,-61.03], 8);
+    map.setView([-31.3 ,-61.45], 7);
   });
   
   
