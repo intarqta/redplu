@@ -5,7 +5,7 @@
 
 // config map
 let config = {
-    minZoom: 8,
+    minZoom: 6,
     maxZoom: 18,
   };
  
