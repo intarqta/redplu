@@ -134,7 +134,7 @@ let config = {
     
     // close sidebar when click on close button
     closeSidebar();
-    map.setView([-31.3 ,-61.03], 7);
+    map.setView([-29.25 ,-60.45], 8);
   });
   
   
